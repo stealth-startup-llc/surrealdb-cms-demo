@@ -1,0 +1,33 @@
+{
+  "version": "4",
+  "redirects": {
+    "https://deno.land/x/surrealism/mod.ts": "https://deno.land/x/surrealism@v0.1.2/mod.ts"
+  },
+  "remote": {
+    "https://deno.land/x/surrealdb@v0.9.0/mod.ts": "f9b080bdcb417ad67b2bfa9c03f74bbf5b6d8fe445d8ed00aac8668c38eba22d",
+    "https://deno.land/x/surrealdb@v0.9.0/src/errors.ts": "39458fe3bf4a94ba0debdf57d53b671af204d0191b4bc8bc0a8f514dfa9a7ec2",
+    "https://deno.land/x/surrealdb@v0.9.0/src/index.ts": "73fdcc1d716daebf74c4add73e82ae52f5ddf26397eeb86e7621bb06f1ee5f07",
+    "https://deno.land/x/surrealdb@v0.9.0/src/library/Pinger.ts": "87f28cbed832e7116a55bb45b88f72a32beba5f5634bcbc0b67b2ea0e295f566",
+    "https://deno.land/x/surrealdb@v0.9.0/src/library/SurrealHTTP.ts": "b804fe9ffa70940cb4ea123a60a5c1d6a60717ed21286f9c95fb1da41862c085",
+    "https://deno.land/x/surrealdb@v0.9.0/src/library/SurrealSocket.ts": "b40dd4362c8ffbaadf8e0601118e68a7ff0d52d15adfb8bac67f426d6922c688",
+    "https://deno.land/x/surrealdb@v0.9.0/src/library/WebSocket/deno.ts": "4de80d57aa71c61bc40bcf4afd9f8fa23c84bbd5412f17a53e50d50d81127612",
+    "https://deno.land/x/surrealdb@v0.9.0/src/library/getIncrementalID.ts": "e119897d27f696ee3493fa6c0bc71a83c0320784978d051aea5cb2c178b48bb2",
+    "https://deno.land/x/surrealdb@v0.9.0/src/library/isNil.ts": "af7fe23c3d09654089dc0cbd838f760889050de16d92c1d81c595f7175ec3748",
+    "https://deno.land/x/surrealdb@v0.9.0/src/library/processAuthVars.ts": "ca4d98de0f30dc15d75b51f76613498524b76a8286bfb43d72955d4faaee4b9b",
+    "https://deno.land/x/surrealdb@v0.9.0/src/library/processUrl.ts": "f0d831c2e4516f278a86c2f7d7051eaf216da5279b602e8468cfd02c4b39ad7e",
+    "https://deno.land/x/surrealdb@v0.9.0/src/strategies/http.ts": "942c100bdca6203aa554eaef3b1db6829f21a0e4a8d84150f87ae88fc566232e",
+    "https://deno.land/x/surrealdb@v0.9.0/src/strategies/websocket.ts": "c1a9e6675a3635f470e687131e7d82fd3399c8529b9f74dd455bbb0fae5e8067",
+    "https://deno.land/x/surrealdb@v0.9.0/src/types.ts": "18b928188114a32e4f2e97fd43c37d5caf0044db806d1b3b9a7698e4bc876c15",
+    "https://deno.land/x/surrealism@v0.1.2/mod.ts": "4d34ce4a66d1c19bed45f08ed1552fd7ca51ea89152c5123a4cd6a49c8de11b5",
+    "https://deno.land/x/surrealism@v0.1.2/src/_utils.ts": "fcbef771473c912920f18fbd60113e7dd620dc40b12feb02a210e7a15ac18e90",
+    "https://deno.land/x/surrealism@v0.1.2/src/driver/http.ts": "771803da179b5b5e73776176dfb615c0582826d75c86d6ed2050e51cd4297595",
+    "https://deno.land/x/surrealism@v0.1.2/src/driver/surreal.ts": "e720f3e1efe7c64f5ba089f4c4cad50abf1c31f6085da4b3a412549b9648536d",
+    "https://deno.land/x/surrealism@v0.1.2/src/driver/ws.ts": "f81940f2c6d2d5541535361687ff0ee210009353dc592623c4f62a57cd3a8f50",
+    "https://deno.land/x/surrealism@v0.1.2/src/mod.ts": "0d7eb5452766df7d418ee06f08c0721ba7a2abb52935c4614f062dfcec425c58"
+  },
+  "workspace": {
+    "dependencies": [
+      "jsr:@std/assert@1"
+    ]
+  }
+}

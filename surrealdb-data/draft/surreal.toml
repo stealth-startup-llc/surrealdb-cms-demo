@@ -1,0 +1,10 @@
+[network]
+bind = "0.0.0.0:8001"  
+
+[storage]
+path = "./surrealdb-data/draft"
+
+[auth]
+user = "root"
+pass = "password"
+
